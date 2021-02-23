@@ -1,17 +1,7 @@
 # Ebin Babu
 
-### Fun facts
 
-- Music lover 🎵 🎶
-
-- Foodie 🍲
-
-
-### Social media
-
-[linkedin]: https://linkedin.com/in/ebinbabu
-
-<!--
+<--
 
 **ebinbabu/ebinbabu* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
