@@ -10,7 +10,7 @@ Twitter: [@ebinbabu97](https://twitter.com/ebinbabu97)
 
 Telegram: [@cloudcoder](https://t.me/cloudcoder)
 
-LinkedIn: [Ebin Babu](https://linkedin.com/in/ebin.babu)
+LinkedIn: [Ebin Babu](https://linkedin.com/in/ebin-babu)
 
 Email: [ebinbabuofficial@gmail.com](mailto:ebinbabuofficial@gmail.com)
 
