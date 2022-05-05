@@ -8,7 +8,7 @@ Hey! My name is Ebin Babu and I'm DevOps-engineer, Head of Operation and fall in
 
 Twitter: [@ebinbabu97](https://twitter.com/ebinbabu97)
 
-Telegram: [@cloudcoder](https://t.me/cloudcoder)
+Telegram: [@thedevopsman](https://t.me/thedevopsman)
 
 LinkedIn: [Ebin Babu](https://linkedin.com/in/ebin-babu)
 
