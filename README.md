@@ -7,7 +7,11 @@ Hey! My name is Ebin Babu and I'm DevOps-engineer, Head of Operation and fall in
 
 [![twitter badge](https://img.shields.io/badge/twitter-ebinbabu97?style=social&logo=twitter)](https://twitter.com/ebinbabu97)
 
-Twitter: [@ebinbabu97]()
+[![linkedin badge](https://img.shields.io/badge/linkedin-ebin-babu?style=social&logo=linkedin)](https://www.linkedin.com/in/ebin-babu/)
+
+[![Telegram badge](https://img.shields.io/badge/t.me/thedevopsman?style=social&logo=telegram)](https://t.me/thedevopsman)
+
+
 
 Telegram: [@thedevopsman](https://t.me/thedevopsman)
 
