@@ -9,8 +9,6 @@ Hey! My name is Ebin Babu and I'm DevOps-engineer, Head of Operation and fall in
 
 
 
-Email: [ebinbabuofficial@gmail.com](mailto:ebinbabuofficial@gmail.com)
-
 
 #### Badges
 
