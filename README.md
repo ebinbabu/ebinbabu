@@ -1,6 +1,12 @@
 ### Guy without armored suit 👋
 
-Hey! My name is Ebin Babu and I'm DevOps-engineer, Head of Operation and fall in :heart: with Linux, Cloud Native and Like Minded people
+Hi there!
+
+My name is Ebin Babu and I am a DevOps engineer with a passion for Cloud Native technologies. I am also the Lead Organizer of the CNCF Trivandrum chapter community, where I help to foster engagement and collaboration among like-minded individuals in the cloud-native space.
+
+As the Lead Organizer, I oversee the day-to-day functioning of the community and help to ensure that our events and initiatives run smoothly. I am deeply committed to promoting the adoption of Cloud Native technologies and to building a vibrant and supportive community around this ecosystem.
+
+In addition to my work in DevOps and Cloud Native, I am an ardent fan of Linux and have a keen interest in open-source software. I find great joy in connecting with others who share my passion for these technologies, and I believe that the CNCF Trivandrum chapter community is an excellent platform for bringing together individuals who are enthusiastic about these topics.
 
 
 #### Contacts
