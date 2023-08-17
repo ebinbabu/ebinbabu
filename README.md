@@ -14,7 +14,7 @@ In addition to my work in DevOps and Cloud Native, I am an ardent fan of Linux a
 [![twitter badge](https://img.shields.io/badge/twitter-ebinbabu97?style=social&logo=twitter)](https://twitter.com/ebinbabu97) [![linkedin badge](https://img.shields.io/badge/linkedin-ebinbabu?style=social&logo=linkedin)](https://www.linkedin.com/in/ebin-babu/) [![Telegram badge](https://img.shields.io/badge/Telegram--blue?style=social&logo=telegram)](https://t.me/thedevopsman) [![Email badge](https://img.shields.io/badge/email--blue?style=social&logo=Email)](mailto:ebinbabuofficial@gmail.com)
 
 
-
+![Ebin's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=ebinbabu&show_icons=true&hide_border=false&title_color=03E6FF&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 #### Badges
 
