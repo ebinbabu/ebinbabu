@@ -33,44 +33,38 @@ In addition to my love of DevOps and cloud-native technologies, I have a deep in
 
 <div align="center">
  <p>April 29, 2023 - WOW Kerala organized by GDSC</p>
-
-   ![GDSC-wow-group](./images/gdsc-2.jpeg)
-   ![GDSC-wow-ebinbabu-1](./images/gdsc-1.jpeg)
-   ![GDSC-wow-ebinbabu-2](./images/gdsc-3.jpeg)
+   <img src="./images/gdsc-2.jpeg" alt="GDSC-wow-group" width="200">
+   <img src="./images/gdsc-1.jpeg" alt="GDSC-wow-ebinbabu-1" width="200">
+   <img src="./images/gdsc-3.jpeg" alt="GDSC-wow-ebinbabu-2" width="200">
 </div>
 <div align="center">
 <p> April 3, 2023 - Student Advising Meeting </p>
-
-![Student-Advising-Meeting-ebinbabu-0](./images/smpc-1.jpeg)
-![Student-Advising-Meeting-ebinbabu-1](./images/smpc-2.jpeg)
-![Student-Advising-Meeting-ebinbabu-2](./images/smpc-3.jpeg)
+<img src="./images/smpc-1.jpeg" alt="Student-Advising-Meeting-ebinbabu-0" width="200">
+<img src="./images/smpc-2.jpeg" alt="Student-Advising-Meeting-ebinbabu-1" width="200">
+<img src="./images/smpc-3.jpeg" alt="Student-Advising-Meeting-ebinbabu-2" width="200">
 </div>
 
 <div align="center">
-<p> March 25, 2023 - DM-meetup-TVM </p>
 
-![DM-Meetup-ebinbabu-0](./images/dm-meetup-march-1.jpeg)
-![DM-Meetup-ebinbabu-1](./images/dm-meetup-march.jpeg)
+<p> March 25, 2023 - DM-meetup-TVM </p>
+<img src="./images/dm-meetup-march-1.jpeg" alt="DM-Meetup-ebinbabu-0" width="200">
+<img src="./images/dm-meetup-march.jpeg" alt="DM-Meetup-ebinbabu-1" width="200">
 </div>
 <div align="center">
 <p> May 21, 2022 - DM-con 2022 </p>
-
-![DMCON-2022-group](./images/dmcon-1.JPG)
-![DMCON-2022-ebinbabu](./images/dmcon-2.jpeg)
-![DMCON-2022-ebinbabu-1](./images/dmcon01.jpeg)
+<img src="./images/dmcon-1.JPG" alt="DMCON-2022-group">
+<img src="./images/dmcon-2.jpeg" alt="DMCON-2022-ebin" width="200">
+<img src="./images/dmcon01.jpeg" alt="DMCON-2022-ebinbabu-1" width="200">
 </div>
-
 <div align="center">
 <p> April 09, 2022 - CNCF Trivandrum </p>
-
-![cncftrivandrum-2022-group](./images/cncf.JPG)
-![cncftrivandrum-2022ebinbabu](./images/cncf-1.jpeg)
+<img src="./images/cncf.JPG" alt="cncftrivandrum-2022-group" width="200">
+<img src="./images/cncf-1.jpeg" alt="cncftrivandrum-2022-ebinbabu" width="200">
 </div>
 <div align="center">
 <p> March 10, 2022 - Cloud && DevOps Mentoring Session </p>
-
-![devops-class-ebinbabu-2022](./images/devops-3.jpeg)
-![devops-class-ebinbabu-2022-1](./images/devops.jpeg)
-![devops-class-ebinbabu-2022-2](./images/devops-2.jpeg)
-![devops-class-ebinbabu-2022-2](./images/devops-1.jpeg)
+<img src="./images/devops-3.jpeg" alt="devops-class-ebinbabu-2022" width="200">
+<img src="./images/devops.jpeg" alt="devops-class-ebinbabu-2022-1" width="200">
+<img src="./images/devops-2.jpeg" alt="devops-class-ebinbabu-2022-2" width="200">
+<img src="./images/devops-1.jpeg" alt="devops-class-ebinbabu-2022-3" width="200">
 </div>
