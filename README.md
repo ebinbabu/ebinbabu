@@ -13,69 +13,60 @@ In addition to my love of DevOps and cloud-native technologies, I have a deep in
 ![](https://komarev.com/ghpvc/?username=ebinbabu)
 
 #  Here's a sneak peek of my offline events:
-<style>
-  /* Create a grid layout for the gallery */
-  .image-gallery {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Responsive grid with minimum column width of 200px */
-    gap: 10px; /* Space between images */
-  }
 
-  /* Style individual images */
-  .image-gallery img {
-    max-width: 100%;
-    height: auto;
-    border: 2px solid #ddd; /* Border style */
-    border-radius: 5px; /* Rounded corners */
-  }
+<div align="center">
+  <h2>Image Gallery</h2>
+</div>
 
-  /* Center text under images */
-  .image-gallery p {
-    text-align: center;
-  }
-</style>
-
-<div class="image-gallery">
-
+<div align="center">
   <p>August 19, 2023 - DM-meetup-TVM</p>
+  <img src="./images/dm-meetup-august-1.jpeg" alt="dm-meetup-august-group" width="200">
+  <img src="./images/dm-meetup-august.jpeg" alt="dm-meetup-august-ebinbabu" width="200">
+</div>
 
-  ![dm-meetup-august-group](./images/dm-meetup-august-1.jpeg)
-  ![dm-meetup-august-ebinbabu](./images/dm-meetup-august.jpeg)
-
+<div align="center">
   <p>May 6, 2023 - DM-meetup-Kochi</p>
+  <img src="./images/dm-meetup-june-1.jpeg" alt="dm-meetup-may-group" width="200">
+  <img src="./images/dm-meetup-june.jpeg" alt="dm-meetup-may-ebinbabu-1" width="200">
+  <img src="./images/dm-meetup-june-2.jpeg" alt="dm-meetup-may-ebinbabu-2" width="200">
+</div>
 
-  ![dm-meetup-may-group](./images/dm-meetup-june-1.jpeg)
-  ![dm-meetup-may-ebinbabu-1](./images/dm-meetup-june.jpeg)
-  ![dm-meetup-may-ebinbabu-2](./images/dm-meetup-june-2.jpeg)
-
-   <p>April 29, 2023 - WOW Kerala organized by GDSC</p>
+<div align="center">
+ <p>April 29, 2023 - WOW Kerala organized by GDSC</p>
 
    ![GDSC-wow-group](./images/gdsc-2.jpeg)
    ![GDSC-wow-ebinbabu-1](./images/gdsc-1.jpeg)
    ![GDSC-wow-ebinbabu-2](./images/gdsc-3.jpeg)
-
+</div>
+<div align="center">
 <p> April 3, 2023 - Student Advising Meeting </p>
 
 ![Student-Advising-Meeting-ebinbabu-0](./images/smpc-1.jpeg)
 ![Student-Advising-Meeting-ebinbabu-1](./images/smpc-2.jpeg)
 ![Student-Advising-Meeting-ebinbabu-2](./images/smpc-3.jpeg)
+</div>
 
+<div align="center">
 <p> March 25, 2023 - DM-meetup-TVM </p>
 
 ![DM-Meetup-ebinbabu-0](./images/dm-meetup-march-1.jpeg)
 ![DM-Meetup-ebinbabu-1](./images/dm-meetup-march.jpeg)
-
+</div>
+<div align="center">
 <p> May 21, 2022 - DM-con 2022 </p>
 
 ![DMCON-2022-group](./images/dmcon-1.JPG)
 ![DMCON-2022-ebinbabu](./images/dmcon-2.jpeg)
 ![DMCON-2022-ebinbabu-1](./images/dmcon01.jpeg)
+</div>
 
+<div align="center">
 <p> April 09, 2022 - CNCF Trivandrum </p>
 
 ![cncftrivandrum-2022-group](./images/cncf.JPG)
 ![cncftrivandrum-2022ebinbabu](./images/cncf-1.jpeg)
-
+</div>
+<div align="center">
 <p> March 10, 2022 - Cloud && DevOps Mentoring Session </p>
 
 ![devops-class-ebinbabu-2022](./images/devops-3.jpeg)
