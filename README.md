@@ -17,7 +17,29 @@ In addition to my love of DevOps and cloud-native technologies, I have a deep in
 <div align="center">
   <h2>Image Gallery</h2>
 </div>
+<div align="center">
+  <p> February 23rd 2024 - CloudNative Trivandrum </p>
+  <img src="./images/cncg-tvm.jpg" alt="cncg-trivandrum-ebin" width="auto">
+  <img src="./images/cncg-tvm-1.jpg" alt="cncg-trivandrum-ebin" width="auto">
+</div>
 
+<div align="center">
+  <p>December 8 2023 - KubeDay </p>
+  <img src="./images/kubeday-ebin.jpeg" alt="kubeday-ebin" width="auto">
+  <img src="./images/kubeday-ebin-1.jpeg" alt="kubeday-ebin" width="auto">
+</div>
+
+<div align="center">
+  <p>November  6-9 2023 - kubecon cloud native con </p>
+  <img src="./images/kubecon-ebin-1.jpeg" alt="kubecon-ebin" width="auto">
+   <img src="./images/kubecon-kodekloud.jpeg" alt="kubecon-ebin-kodekloud"  width="600">
+   <img src="./images/kubecon-phippi.jpeg" alt="kubecon-ebin-phippi"  width="200">
+</div>
+
+<div align="center">
+  <p>October 14, 2023 - DM-meetup-TVM</p>
+  <img src="./images/october-ebin.jpeg" alt="dm-meetup-october-group-ebin" width="auto">
+</div>
 <div align="center">
   <p>August 19, 2023 - DM-meetup-TVM</p>
   <img src="./images/dm-meetup-august-1.jpeg" alt="dm-meetup-august-group" width="auto">
