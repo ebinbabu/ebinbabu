@@ -1,7 +1,13 @@
-### 👋 Welcome to my tech Universe! 🥷🏻🌍
-Hi there! I'm **Ebin Babu**, a DevOps engineer passionate about cloud-native technologies. I'm one of the co-founders of [devopsmalayalam.io](https://devopsmalayalam.io) and the organizer of the CNCF Trivandrum chapter community. In these roles, I help to foster engagement and collaboration among cloud-native enthusiasts. As the community organizer, I oversee the day-to-day operations and ensure that our events and initiatives run smoothly. I organised 100+ offline and online events coordinated with various communities. I'm deeply committed to promoting the adoption of cloud-native technologies and building a vibrant and supportive community around this ecosystem.
+### 🌟 Discover the Pulse of Tech with Ebin Babu! 🌐
 
-In addition to my love of DevOps and cloud-native technologies, I have a deep interest in open-source software and am a devoted Linux supporter. I love meeting people as passionate about these technologies as I am, and I think the community is a fantastic venue for bringing people together who share that passion.
+Greetings, tech enthusiasts! I'm **Ebin Babu**, a DevOps engineer at [stackgenie](https://stackgenie.io) who's on a mission to revolutionize the cloud-native landscape. As a co-founder of [devopsmalayalam.io](https://devopsmalayalam.io) and the organizer of the CNCG Trivandrum chapter community, I'm dedicated to fostering a vibrant, collaborative ecosystem for cloud-native enthusiasts like yourself.
+
+In my role, I have the privilege of overseeing the day-to-day operations and ensuring that our events and initiatives run seamlessly. I've coordinated over 100 offline and online events, connecting passionate individuals from diverse backgrounds and helping them navigate the ever-evolving world of cloud-native technologies.
+
+But my tech journey doesn't stop there! I'm a devoted open-source advocate and a Linux enthusiast, constantly exploring new ways to push the boundaries of what's possible. For me, the community is the heartbeat of this revolution, and I'm honored to be a part of it, bringing people together who share my passion for innovation and progress.
+
+So, if you're ready to dive into the pulse of the tech universe, join me on this exciting journey! Let's collaborate, learn, and shape the future of cloud-native technologies, one milestone at a time. Together, we can unlock the boundless potential that lies ahead.
+
 
 ## Contacts
 [![twitter badge](https://img.shields.io/badge/twitter-ebinbabu97?style=social&logo=twitter)](https://twitter.com/ebinbabu97) [![linkedin badge](https://img.shields.io/badge/linkedin-ebinbabu?style=social&logo=linkedin)](https://www.linkedin.com/in/ebin-babu/) [![Telegram badge](https://img.shields.io/badge/Telegram--blue?style=social&logo=telegram)](https://t.me/thedevopsman) [![email badge](https://img.shields.io/badge/Email-Contact%20Me-blue?style=social&logo=email)](mailto:ebinbabuofficial@gmail.com)
