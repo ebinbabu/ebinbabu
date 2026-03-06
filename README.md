@@ -1,98 +1,103 @@
-### 🌟 Discover the Pulse of Tech with Ebin Babu! 🌐
+# Hi, I'm Ebin 👋
 
-Greetings, tech enthusiasts! I'm **Ebin Babu**, a DevOps engineer at [stackgenie](https://stackgenie.io) who's on a mission to revolutionize the cloud-native landscape. As a co-founder of [devopsmalayalam.io](https://devopsmalayalam.io) and the organizer of the CNCG Trivandrum chapter community, I'm dedicated to fostering a vibrant, collaborative ecosystem for cloud-native enthusiasts like yourself.
+**Senior DevOps & Platform Engineer · CNCF Ambassador · AWS Community Builder (Containers)**
 
-In my role, I have the privilege of overseeing the day-to-day operations and ensuring that our events and initiatives run seamlessly. I've coordinated over 100 offline and online events, connecting passionate individuals from diverse backgrounds and helping them navigate the ever-evolving world of cloud-native technologies.
+> *I build the platforms that ship the product.*
 
-But my tech journey doesn't stop there! I'm a devoted open-source advocate and a Linux enthusiast, constantly exploring new ways to push the boundaries of what's possible. For me, the community is the heartbeat of this revolution, and I'm honored to be a part of it, bringing people together who share my passion for innovation and progress.
+🌐 [iamebi.in](https://iamebi.in) &nbsp;|&nbsp; 📍 Trivandrum, Kerala, India &nbsp;|&nbsp; 🏢 [Stackgenie](https://stackgenie.io)
 
-So, if you're ready to dive into the pulse of the tech universe, join me on this exciting journey! Let's collaborate, learn, and shape the future of cloud-native technologies, one milestone at a time. Together, we can unlock the boundless potential that lies ahead.
+---
 
+## About Me
 
-## Contacts
-[![twitter badge](https://img.shields.io/badge/twitter-ebinbabu97?style=social&logo=twitter)](https://twitter.com/ebinbabu97) [![linkedin badge](https://img.shields.io/badge/linkedin-ebinbabu?style=social&logo=linkedin)](https://www.linkedin.com/in/ebin-babu/) [![Telegram badge](https://img.shields.io/badge/Telegram--blue?style=social&logo=telegram)](https://t.me/thedevopsman) [![email badge](https://img.shields.io/badge/Email-Contact%20Me-blue?style=social&logo=email)](mailto:ebinbabuofficial@gmail.com)
-[![medium badge](https://img.shields.io/badge/Medium-ebinbabu-blue?style=social&logo=medium)](https://ebinbabu.medium.com/)
+I'm a Senior DevOps and Platform Engineer with **6+ years** of experience designing and operating production-grade Kubernetes platforms on AWS, GCP, and Azure.
 
-![Ebin's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=ebinbabu&show_icons=true&hide_border=false&title_color=03E6FF&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+My work lives at the intersection of **platform reliability**, **developer experience**, and **cloud economics** — building infrastructure that lets teams ship faster without worrying about what's underneath.
 
-#### Badges
-![](https://komarev.com/ghpvc/?username=ebinbabu)
+A few things I've shipped:
+- 🚀 **AI/ML platform on AWS EKS** — serving 10+ data science teams at 99.9% availability
+- ⚡ **High-throughput Temporal system** — validated at 6,000 RPS on Kubernetes
+- 💰 **45% cloud cost reduction** — across AWS, GCP, and Azure through FinOps practices
+- 📊 **Full-stack observability** — Prometheus + Thanos + Grafana + Loki + Tempo + OpenTelemetry across multi-cluster environments
 
-#  Here's a sneak peek of my offline events:
+---
 
-<div align="center">
-  <h2>Image Gallery</h2>
-</div>
-<div align="center">
-  <p> February 23rd 2024 - CloudNative Trivandrum </p>
-  <img src="./images/cncg-tvm.jpg" alt="cncg-trivandrum-ebin" width="auto">
-  <img src="./images/cncg-tvm-1.jpg" alt="cncg-trivandrum-ebin" width="auto">
-</div>
+## Community
 
-<div align="center">
-  <p>December 8 2023 - KubeDay </p>
-  <img src="./images/kubeday-ebin.jpeg" alt="kubeday-ebin" width="auto">
-  <img src="./images/kubeday-ebin-1.jpeg" alt="kubeday-ebin" width="auto">
-</div>
+- 🏅 **CNCF Ambassador** — Cloud Native Computing Foundation
+- ⚡ **AWS Community Builder** — Containers Category (2026)
+- ☸️ **KCD Kochi 2026 Organiser** — Kerala's Kubernetes Community Day (April 18, 2026)
+- 🛠️ **Co-founder**, [DevOps Malayalam](https://devopsmalayalam.io) — community for Malayalam-speaking DevOps practitioners
+- 🌏 **Organiser**, CNCF Cloud Native Community Group (CNCG) Trivandrum
+- 📅 **100+ events** coordinated across Kerala — Kubernetes, GitOps, platform engineering, cloud fundamentals
+- ✍️ Writing about cloud-native at [ebinbabu.medium.com](https://ebinbabu.medium.com)
+- 🎤 Speaker at local meetups and DevOps community events
 
-<div align="center">
-  <p>November  6-9 2023 - kubecon cloud native con </p>
-  <img src="./images/kubecon-ebin-1.jpeg" alt="kubecon-ebin" width="auto">
-   <img src="./images/kubecon-kodekloud.jpeg" alt="kubecon-ebin-kodekloud"  width="600">
-   <img src="./images/kubecon-phippi.jpeg" alt="kubecon-ebin-phippi"  width="200">
-</div>
+---
 
-<div align="center">
-  <p>October 14, 2023 - DM-meetup-TVM</p>
-  <img src="./images/october-ebin.jpeg" alt="dm-meetup-october-group-ebin" width="auto">
-</div>
-<div align="center">
-  <p>August 19, 2023 - DM-meetup-TVM</p>
-  <img src="./images/dm-meetup-august-1.jpeg" alt="dm-meetup-august-group" width="auto">
-  <img src="./images/dm-meetup-august.jpeg" alt="dm-meetup-august-ebinbabu" width="200">
-</div>
+## Tech Stack
 
-<div align="center">
-  <p>May 6, 2023 - DM-meetup-Kochi</p>
-  <img src="./images/dm-meetup-june-1.jpeg" alt="dm-meetup-may-group" width="auto">
-  <img src="./images/dm-meetup-june.jpeg" alt="dm-meetup-may-ebinbabu-1" width="200">
-  <img src="./images/dm-meetup-june-2.jpeg" alt="dm-meetup-may-ebinbabu-2" width="200">
-</div>
+| Domain | Tools & Technologies |
+|---|---|
+| **Kubernetes** | EKS, GKE, AKS, kubeadm, Karpenter, Cluster Autoscaler, Helm, RBAC |
+| **Networking & Mesh** | Istio, NGINX Ingress, Traefik, Kubernetes Gateway API, mTLS |
+| **CI/CD & GitOps** | Argo CD, Jenkins, GitHub Actions |
+| **IaC & Automation** | Terraform, Ansible, Bash |
+| **Observability** | Prometheus, Grafana, Loki, Thanos, OpenTelemetry |
+| **Stateful Workloads** | PostgreSQL (CrunchyDB), Redis, Kafka, Temporal |
+| **Security** | External Secrets Operator, Sealed Secrets |
+| **Cloud** | AWS (primary), GCP, Azure |
+| **FinOps** | Cost optimisation, right-sizing, Karpenter autoscaling |
 
-<div align="center">
- <p>April 29, 2023 - WOW Kerala organized by GDSC</p>
-   <img src="./images/gdsc-2.jpeg" alt="GDSC-wow-group" width="auto">
-   <img src="./images/gdsc-1.jpeg" alt="GDSC-wow-ebinbabu-1" width="200">
-   <img src="./images/gdsc-3.jpeg" alt="GDSC-wow-ebinbabu-2" width="200">
-</div>
-<div align="center">
-<p> April 3, 2023 - Student Advising Meeting </p>
-<img src="./images/smpc-1.jpeg" alt="Student-Advising-Meeting-ebinbabu-0" width="200">
-<img src="./images/smpc-2.jpeg" alt="Student-Advising-Meeting-ebinbabu-1" width="200">
-<img src="./images/smpc-3.jpeg" alt="Student-Advising-Meeting-ebinbabu-2" width="200">
-</div>
+---
 
-<div align="center">
+## Certifications
 
-<p> March 25, 2023 - DM-meetup-TVM </p>
-<img src="./images/dm-meetup-march-1.jpeg" alt="DM-Meetup-ebinbabu-0" width="auto">
-<img src="./images/dm-meetup-march.jpeg" alt="DM-Meetup-ebinbabu-1" width="200">
-</div>
-<div align="center">
-<p> May 21, 2022 - DM-con 2022 </p>
-<img src="./images/dmcon-1.JPG" alt="DMCON-2022-group" width="auto">
-<img src="./images/dmcon-2.jpeg" alt="DMCON-2022-ebin" width="200">
-<img src="./images/dmcon01.jpeg" alt="DMCON-2022-ebinbabu-1" width="200">
-</div>
-<div align="center">
-<p> April 09, 2022 - CNCF Trivandrum </p>
-<img src="./images/cncf.JPG" alt="cncftrivandrum-2022-group" width="auto">
-<img src="./images/cncf-1.jpeg" alt="cncftrivandrum-2022-ebinbabu" width="200">
-</div>
-<div align="center">
-<p> March 10, 2022 - Cloud && DevOps Mentoring Session </p>
-<img src="./images/devops-3.jpeg" alt="devops-class-ebinbabu-2022" width="200">
-<img src="./images/devops.jpeg" alt="devops-class-ebinbabu-2022-1" width="200">
-<img src="./images/devops-2.jpeg" alt="devops-class-ebinbabu-2022-2" width="200">
-<img src="./images/devops-1.jpeg" alt="devops-class-ebinbabu-2022-3" width="auto">
-</div>
+| Certification | ID |
+|---|---|
+| ☸️ Certified Kubernetes Administrator (CKA) | LF-32v3612xec |
+| ☸️ Certified Kubernetes Application Developer (CKAD) | LF-l43ij16gjm |
+| ☸️ Kubernetes and Cloud Native Associate (KCNA) | LF-slgeipq5t9 |
+| ☸️ Kubernetes and Cloud Native Security Associate (KCSA) | LF-zt2f58jucs |
+
+🏅 Verify on [Credly](https://www.credly.com/users/ebinbabu/badges)
+
+---
+
+## Latest Writing
+
+<!-- Replace these with your actual latest Medium articles or use a GitHub Action to auto-fetch -->
+- 📝 [How to Create and Manage User Access in Kubernetes with RBAC](https://ebinbabu.medium.com/how-to-create-and-manage-user-access-in-kubernetes-with-rbac-54f9af6a204b) *(Techbeatly)*
+- 📝 [My KubeCon 2023 Adventure: Cloud-Native Magic in Chicago](https://ebinbabu.medium.com/my-kubecon-2023-adventure-cloud-native-magic-in-chicago-20a1e6885da9)
+- 📝 [AWS Different Storage Concepts](https://ebinbabu.medium.com/aws-different-storage-concepts-bb0e501cdacc)
+
+➡️ [Read all articles on Medium](https://ebinbabu.medium.com)
+
+---
+
+## GitHub Stats
+
+![Ebin's GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=ebinbabu&show_icons=true&hide_border=true&title_color=63B3ED&icon_color=38E8C5&text_color=A0AFC8&bg_color=080C1C)
+
+![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ebinbabu&layout=compact&hide_border=true&title_color=63B3ED&text_color=A0AFC8&bg_color=080C1C)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ebinbabu&color=63B3ED&style=flat)
+
+---
+
+## Connect
+
+[![Website](https://img.shields.io/badge/iamebi.in-080C1C?style=for-the-badge&logo=safari&logoColor=63B3ED)](https://iamebi.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebin-babu/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ebinbabu97)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://ebinbabu.medium.com/)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/ebinbabu/badges)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thedevopsman)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ebinbabuoffficial@gmail.com)
+
+---
+
+<p align="center">
+  <i>"The best platform is one nobody notices — it just works."</i><br/>
+  <sub>☸️ Built with curiosity. Run on Kubernetes.</sub>
+</p>
