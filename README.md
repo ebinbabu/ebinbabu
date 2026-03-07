@@ -28,7 +28,7 @@ A few things I've shipped:
 - ⚡ **AWS Community Builder** — Containers Category (2026)
 - ☸️ **KCD Kochi 2026 Organiser** — Kerala's Kubernetes Community Day (April 18, 2026)
 - 🛠️ **Co-founder**, [DevOps Malayalam](https://devopsmalayalam.io) — community for Malayalam-speaking DevOps practitioners
-- 🌏 **Organiser**, CNCF Cloud Native Community Group (CNCG) Trivandrum
+- 🌏 **Organiser**, [CNCF Cloud Native Community Group (CNCG) Trivandrum](https://community.cncf.io/cloud-native-trivandrum/)
 - 📅 **100+ events** coordinated across Kerala — Kubernetes, GitOps, platform engineering, cloud fundamentals
 - ✍️ Writing about cloud-native at [ebinbabu.medium.com](https://ebinbabu.medium.com)
 - 🎤 Speaker at local meetups and DevOps community events
@@ -72,6 +72,16 @@ A few things I've shipped:
 - 📝 [AWS Different Storage Concepts](https://ebinbabu.medium.com/aws-different-storage-concepts-bb0e501cdacc)
 
 ➡️ [Read all articles on Medium](https://ebinbabu.medium.com)
+
+---
+
+## Talks
+
+| Event | Talk | Year |
+|---|---|---|
+| 🎤 DMCon 2024 | [Your Roadmap to a Successful DevOps Career — Fireside Chat](https://www.youtube.com/watch?v=BxvOqDDlcXw) | 2024 |
+
+[![DMCon 2024 – DevOps Career Fireside Chat](https://img.youtube.com/vi/BxvOqDDlcXw/maxresdefault.jpg)](https://www.youtube.com/watch?v=BxvOqDDlcXw)
 
 ---
 
